@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="SuiteDePruebas">
+    <test name="Pruebas Selenium">
+        <classes>
+            <class name="Bgtest"/> <!-- Usa el paquete si aplica, ej: com.test.Bgtest -->
+        </classes>
+    </test>
+</suite>
