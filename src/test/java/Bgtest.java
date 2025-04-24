@@ -50,7 +50,7 @@ public class Bgtest {
        // try { Thread.sleep(1000); } catch (InterruptedException e) {}
 
         // Completar campos
-        driver.findElement(By.name("user")).sendKeys("usuarioTest1");
+        driver.findElement(By.name("user")).sendKeys("usuarioTest2");
         driver.findElement(By.name("pass")).sendKeys("password123@");
         //driver.findElement(By.name("confirmPass")).sendKeys("password123");
 
