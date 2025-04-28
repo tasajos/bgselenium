@@ -1,5 +1,6 @@
 # BGTEST
 ## Automation Test para BG
+Automatizacion para pruebas de QA de BG
 
 ## Tabla de Contenidos
 
@@ -11,7 +12,7 @@
 
 ## Descripción
 
-Automation Test para BG. [Aquí puedes añadir una descripción más detallada del proyecto de automatización.]
+Automation Test para BG. Este proyecto utiliza Selenium WebDriver con TestNG para realizar pruebas automatizadas en una aplicación web. Los casos de prueba se enfocan en validar aspectos específicos de la interfaz de usuario como el título de la página, idioma, y validación de edad.
 
 ## Instalación
 
@@ -37,16 +38,10 @@ Para utilizar este proyecto de automatización, necesitarás tener un entorno de
 
     Asegúrate de que esta dependencia se encuentre dentro de la etiqueta `<dependencies>`.
 
-3.  **[Aquí puedes añadir otros pasos de instalación específicos de tu proyecto, como clonar el repositorio, configurar archivos, etc.]**
-
 ## Uso
 
-[Aquí puedes explicar cómo ejecutar las pruebas automatizadas. Por ejemplo, utilizando comandos de Maven o desde tu IDE.]
-
-## Contribución
-
-[Aquí puedes detallar cómo otros pueden contribuir al proyecto.]
+Puedes Utiliza directamente con Ctrl + F5
 
 ## Licencia
 
-[Aquí puedes especificar la licencia bajo la que se distribuye el proyecto.]
+Automatizacion para pruebas de QA de BG
